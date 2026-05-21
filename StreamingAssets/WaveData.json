@@ -1,0 +1,55 @@
+{
+    "waveSets": [
+        {
+            "id": "Stage1",
+            "spawnWaves": 10,
+            "randomWaves": false,
+            "waves": [
+                { "display": "Hydrogen", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "He", "N", "O", "C" ], "correct": [ "H" ] },
+                { "display": "Oxygen", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ox", "On", "Os", "Og" ], "correct": [ "O" ] },
+                { "display": "Carbon", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ca", "Co", "Cu", "Cr" ], "correct": [ "C" ] },
+                { "display": "Nitrogen", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ni", "Na", "Ne", "Nb" ], "correct": [ "N" ] },
+                { "display": "Sodium", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "So", "S", "Sd", "Nd" ], "correct": [ "Na" ] },
+                { "display": "Chlorine", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ch", "C", "Cm", "Cr" ], "correct": [ "Cl" ] },
+                { "display": "Iron", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ir", "Io", "I", "F" ], "correct": [ "Fe" ] },
+                { "display": "Copper", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Co", "Cp", "Cr", "C" ], "correct": [ "Cu" ] },
+                { "display": "Aluminium", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Au", "Ag", "Am", "Ar" ], "correct": [ "Al" ] },
+                { "display": "Gold", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "G", "Go", "Gd", "Ag" ], "correct": [ "Au" ] }
+            ]
+        },
+        {
+            "id": "Stage2",
+            "spawnWaves": 10,
+            "randomWaves": false,
+            "waves": [
+                { "display": "Potassium", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "P", "Pt", "Po", "Pm" ], "correct": [ "K" ] },
+                { "display": "Silver", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Si", "Sl", "S", "Au" ], "correct": [ "Ag" ] },
+                { "display": "Lead", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Le", "Ld", "La", "Li" ], "correct": [ "Pb" ] },
+                { "display": "Mercury", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "My", "Mg", "Mn", "He" ], "correct": [ "Hg" ] },
+                { "display": "Tin", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ti", "T", "Tn", "Tm" ], "correct": [ "Sn" ] },
+                { "display": "Tungsten", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Tu", "Tg", "Tl", "Tm" ], "correct": [ "W" ] },
+                { "display": "Argon", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ag", "Au", "As", "At" ], "correct": [ "Ar" ] },
+                { "display": "Bromine", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Bo", "Ba", "Bi", "B" ], "correct": [ "Br" ] },
+                { "display": "Silicon", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "S", "Sl", "Sc", "Sm" ], "correct": [ "Si" ] },
+                { "display": "Calcium", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "C", "Cm", "Cr", "Co" ], "correct": [ "Ca" ] }
+            ]
+        },
+        {
+            "id": "Stage3",
+            "spawnWaves": 10,
+            "randomWaves": false,
+            "waves": [
+                { "display": "Molybdenum", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Mb", "Md", "Mg", "Mn" ], "correct": [ "Mo" ] },
+                { "display": "Technetium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Te", "Tl", "Ti", "Tn" ], "correct": [ "Tc" ] },
+                { "display": "Promethium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Pr", "Po", "Pt", "Pu" ], "correct": [ "Pm" ] },
+                { "display": "Neptunium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Ne", "Na", "Nb", "Ni" ], "correct": [ "Np" ] },
+                { "display": "Plutonium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Po", "Pl", "Pt", "Pa" ], "correct": [ "Pu" ] },
+                { "display": "Curium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Cu", "Cr", "C", "Cf" ], "correct": [ "Cm" ] },
+                { "display": "Californium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Ca", "Cl", "Co", "Cu" ], "correct": [ "Cf" ] },
+                { "display": "Einsteinium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Ei", "En", "Er", "Eu" ], "correct": [ "Es" ] },
+                { "display": "Nobelium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Nb", "Np", "Nd", "Ni" ], "correct": [ "No" ] },
+                { "display": "Rutherfordium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Ru", "Rh", "Ra", "Rn" ], "correct": [ "Rf" ] }
+            ]
+        }
+    ]
+}
