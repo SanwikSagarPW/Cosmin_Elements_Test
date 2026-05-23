@@ -3,7 +3,7 @@
         {
             "id": "Stage1",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 { "display": "Hydrogen", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "He", "N", "O", "C" ], "correct": [ "H" ] },
                 { "display": "Oxygen", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Ox", "On", "Os", "Og" ], "correct": [ "O" ] },
@@ -20,7 +20,7 @@
         {
             "id": "Stage2",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 { "display": "Potassium", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "P", "Pt", "Po", "Pm" ], "correct": [ "K" ] },
                 { "display": "Silver", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "Si", "Sl", "S", "Au" ], "correct": [ "Ag" ] },
@@ -37,7 +37,7 @@
         {
             "id": "Stage3",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 { "display": "Molybdenum", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Mb", "Md", "Mg", "Mn" ], "correct": [ "Mo" ] },
                 { "display": "Technetium", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "Te", "Tl", "Ti", "Tn" ], "correct": [ "Tc" ] },
